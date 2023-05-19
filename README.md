@@ -67,3 +67,8 @@ g.pop_back();
 cout << g.back() << endl;
 cout << g.size() << endl;
 ```
+
+## Atminties perskirstymai Vector ir std::vector
+
+### std::vector perskirstymas: 31
+### Vector perskirstymas: 31
