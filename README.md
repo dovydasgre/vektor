@@ -72,3 +72,11 @@ cout << g.size() << endl;
 
 ### std::vector perskirstymas: 31
 ### Vector perskirstymas: 31
+
+## Class ir struktūros palyginimas su 10M -O3
+| Tipas       | std::vector| Vector      |
+|-------------|------------|-------------|
+| Nuskaitymas | 0.04       | 0.05        |
+| Rūšiavimas  | 0.32       | 0.62        |
+| Išskirstymas| 0.04       | 0.03        |
+| Išvedimas   | 0.48       | 0.54        |
